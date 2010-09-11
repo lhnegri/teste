@@ -1,0 +1,3 @@
+-Xms128m -Xmx512m
+
+Comando para aumentar a memória para aplicação alem do que a JVM permite por padrão.
