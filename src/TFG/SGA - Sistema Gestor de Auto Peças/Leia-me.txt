@@ -1,0 +1,13 @@
+Para um bom funcionamento do software, siga as instruções abaixo:
+
+1) Instale a JDK 6 (Java Development Kit), que se encontra no diretório "\SGA - Sistema Gestor de Auto Peças\Software\JDK".
+2) Instale o SGBD (Sistema Gerenciador de Banco de Dados), que se encontra no diretório "\SGA - Sistema Gestor de Auto Peças\Software\SGBD"
+3) Crie uma pasta no Disco c: com o nome "SGA", e cole o executável da aplicação, que se encontra no diretório "\SGA - Sistema Gestor de Auto Peças\Software\Aplicação"
+4) Cole o arquivo "path", dentro da pasta SGA criada no item 3, que se encontra no diretório "\SGA - Sistema Gestor de Auto Peças\Software\Aplicação"
+5) Cole a pasta "DB" dentro da pasta SGA criada no item 3, que se encontra no diretório "\SGA - Sistema Gestor de Auto Peças\Software\SGBD"
+
+login : lnegri
+senha : senha123
+
+
+obs:. arquivos referente ao Trabalho final de graduação, se encontra no diretório "\SGA - Sistema Gestor de Auto Peças\Software\TFG"
